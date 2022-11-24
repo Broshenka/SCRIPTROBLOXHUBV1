@@ -210,7 +210,7 @@ CreditText.BackgroundTransparency = 1
 CreditText.Position = UDim2.new(0.188195452, 0, 0.0601093657, 0)
 CreditText.Size = UDim2.new(0.809829473, 0, 0.382513672, 0)
 CreditText.Font = Enum.Font.GothamBold
-CreditText.Text = "Gui Create : DarkCyber"
+CreditText.Text = "Gui Create : RULZOUR"
 CreditText.TextColor3 = Color3.new(1, 1, 1)
 CreditText.TextSize = 20
  
@@ -221,7 +221,7 @@ JoinText.BackgroundTransparency = 1
 JoinText.Position = UDim2.new(0, 0, 0.453551859, 0)
 JoinText.Size = UDim2.new(0.998024881, 0, 0.146612123, 0)
 JoinText.Font = Enum.Font.GothamBold
-JoinText.Text = "Join Discord for more Update"
+JoinText.Text = "Test Bee Swarm Simulator"
 JoinText.TextColor3 = Color3.new(1, 1, 1)
 JoinText.TextSize = 17
  
@@ -232,7 +232,7 @@ DiscordlinkTest.BackgroundTransparency = 1
 DiscordlinkTest.Position = UDim2.new(0, 0, 0.601092875, 0)
 DiscordlinkTest.Size = UDim2.new(0.998024881, 0, 0.146612123, 0)
 DiscordlinkTest.Font = Enum.Font.GothamBold
-DiscordlinkTest.Text = "Link: https://discord.gg/yXNjfMa"
+DiscordlinkTest.Text = "Link: https://discord.gg/"
 DiscordlinkTest.TextColor3 = Color3.new(1, 1, 1)
 DiscordlinkTest.TextSize = 17
  
